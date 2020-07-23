@@ -8,8 +8,8 @@ V2Ray账号，更新时间：2020-7-23 星期四
 
 订阅链接：
 
-- https://git.io/free-v2ray
-- https://raw.githubusercontent.com/iwxf/free-v2ray/master/subscribe
+- `https://git.io/free-v2ray`
+- `https://raw.githubusercontent.com/iwxf/free-v2ray/master/subscription`
 
 账号的使用方法您可以参考：[v2ray各平台图文使用教程](https://github.com/iwxf/v2ray-tutorial/blob/master/README.md)
 
