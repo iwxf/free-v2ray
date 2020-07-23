@@ -6,7 +6,10 @@ V2Ray账号，更新时间：2020-7-23 星期四
 
 本站不提供任何收费服务，不推荐任何收费机场，谢谢大家的支持。
 
-订阅链接：https://raw.githubusercontent.com/iwxf/free-v2ray/master/subscribe
+订阅链接：
+
+- https://git.io/free-v2ray
+- https://raw.githubusercontent.com/iwxf/free-v2ray/master/subscribe
 
 账号的使用方法您可以参考：[v2ray各平台图文使用教程](https://github.com/iwxf/v2ray-tutorial/blob/master/README.md)
 
