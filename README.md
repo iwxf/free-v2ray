@@ -8,8 +8,7 @@ V2Ray账号，更新时间：2020-7-25 星期六
 
 订阅链接：
 
-- `https://iwxf.netlify.app/`
-- `https://raw.githubusercontent.com/iwxf/free-v2ray/master/subscription`
+- `https://iwxf.netlify.app`
 
 账号的使用方法您可以参考：[v2ray各平台图文使用教程](https://github.com/iwxf/v2ray-tutorial/blob/master/README.md)
 
